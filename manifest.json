@@ -2,7 +2,7 @@
     "manifest_version" : 3,
     "version" : "1.0.0.1",
     "name" : "Recommence",
-    "description" : "This is a project that was made during my learning of JS.",
+    "description" : "This is a project that was made when I was learning of JS.",
     "action" : {
         "default_popup" : "index.html",
         "default_icon" : "./icon/icon.png"
